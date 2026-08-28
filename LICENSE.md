@@ -1,6 +1,6 @@
 Required Notice: Copyright (c) 2026 Stratus Software Solutions (https://github.com/Proxify/claudecmd)
 
-Code Command Center (CCC) is dual-licensed. This file is the **noncommercial
+CuttleCode is dual-licensed. This file is the **noncommercial
 license** that applies to personal and other noncommercial use, reproduced
 verbatim below. **Any commercial use requires a separate commercial license** —
 see [COMMERCIAL-LICENSE.md](./COMMERCIAL-LICENSE.md).

@@ -1,6 +1,6 @@
 # Commercial License
 
-Code Command Center (CCC) is dual-licensed:
+CuttleCode is dual-licensed:
 
 - **Noncommercial use** is governed by [LICENSE.md](./LICENSE.md) (PolyForm
   Noncommercial 1.0.0) and is free.
@@ -13,7 +13,7 @@ noncommercial purpose under [LICENSE.md](./LICENSE.md). In particular, commercia
 use includes:
 
 - Use by or for a for-profit organization, of any size.
-- Use in the course of employment, contracting, or consulting — i.e. using CCC
+- Use in the course of employment, contracting, or consulting — i.e. using CuttleCode
   "at work" or to deliver work for a client.
 - Use in internal business tooling, operations, or any revenue-generating
   activity.
@@ -33,6 +33,6 @@ Contact Stratus Software Solutions to purchase a commercial license:
 - **Email:** _<add commercial-licensing contact email>_
 - **Web:** _<add purchasing/contact URL>_
 
-A signed commercial license agreement governs your use of CCC **in place of**
+A signed commercial license agreement governs your use of CuttleCode **in place of**
 [LICENSE.md](./LICENSE.md). The terms, pricing, and scope (such as seat or host
 counts) are set out in that agreement, not in this repository.

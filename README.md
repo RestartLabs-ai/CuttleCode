@@ -1,7 +1,6 @@
 # CuttleCode
 
-A mobile-first orchestration dashboard for managing Claude Code CLI sessions
-across multiple projects via real PTY passthrough.
+A desktop and mobile workspace for running AI coding agents across all your projects, with powerful workflows and automation built in. Bring your own subscription for Claude Code, Codex, Cursor, and more.
 
 **[codecc.ai](https://codecc.ai)**
 

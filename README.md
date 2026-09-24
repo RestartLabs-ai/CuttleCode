@@ -2,7 +2,7 @@
 
 A desktop and mobile workspace for running AI coding agents across all your projects, with powerful workflows and automation built in. Bring your own subscription for Claude Code, Codex, Cursor, and more.
 
-**[codecc.ai](https://codecc.ai)**
+**[cuttlecode.dev](https://cuttlecode.dev)**
 
 ## Download
 
